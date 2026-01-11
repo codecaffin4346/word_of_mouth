@@ -5,6 +5,8 @@ This project is a high-fidelity recreation of a product description page, popula
 ## 🚀 Live Demo
 *(Paste your Vercel/Netlify link here after deployment)*
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/codecaffin4346/word_of_mouth)
+
 ## 🛠️ Tech Stack
 -   **Core**: React (Vite)
 -   **Styling**: Tailwind CSS (v3.4)
