@@ -3,9 +3,7 @@
 This project is a high-fidelity recreation of a product description page, populated with **Maska Peanut Butter** content. It was built to demonstrate **Product Design**, **Frontend Engineering**, and **Creative Implementation** skills.
 
 ## 🚀 Live Demo
-*(Paste your Vercel/Netlify link here after deployment)*
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/codecaffin4346/word_of_mouth)
+*(https://wordofmouth-peach.vercel.app/)*
 
 ## 🛠️ Tech Stack
 -   **Core**: React (Vite)
